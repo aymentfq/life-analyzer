@@ -1,0 +1,31 @@
+[00:00:01.936] Server  LOG     ✓ Ready in 1373ms
+[00:00:03.642] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:52.938] Server  LOG     ✓ Compiled in 1602ms
+[00:02:58.435] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:07.392] Server  LOG     ✓ Compiled in 263ms
+[00:05:13.203] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:16.805] Browser ERROR   uncaughtError: ReferenceError: Activity is not defined
+[00:06:03.210] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:06:03.563] Server  LOG     ✓ Compiled in 166ms
+[00:06:04.214] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:10:13.048] Server  LOG     ✓ Compiled in 181ms
+[00:10:17.769] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:10:22.139] Server  ERROR   ❌ SERVER ERROR: "[GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [404 Not Found] models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
+[00:10:23.712] Server  ERROR   ❌ SERVER ERROR: "[GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [404 Not Found] models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
+[00:10:24.804] Server  ERROR   ❌ SERVER ERROR: "[GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [404 Not Found] models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
+[00:12:43.018] Server  LOG     ✓ Compiled in 356ms
+[00:13:38.028] Server  LOG     ✓ Compiled in 202ms
+[00:15:32.716] Server  LOG     ✓ Compiled in 228ms
+[00:17:46.236] Server  LOG     ✓ Compiled in 229ms
+[00:19:39.472] Server  LOG     ✓ Compiled in 232ms
+[00:23:40.890] Server  LOG     ✓ Compiled in 200ms
+[00:23:41.251] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'map')
+[00:25:21.845] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:25:21.852] Server  LOG     ✓ Compiled in 157ms
+[00:25:23.635] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:27:23.318] Server  LOG     ✓ Compiled in 213ms
+[00:29:04.963] Server  LOG     ✓ Compiled in 206ms
+[00:30:28.677] Server  LOG     ✓ Compiled in 395ms
+[00:31:38.943] Server  LOG     ✓ Compiled in 255ms
+[00:32:34.019] Browser WARN    You are trying to animate height from "NaN%" to "85%". "NaN%" is not an animatable value.. For more information and steps for solving, visit https://motion.dev/troubleshooting/value-not-animatable
+[00:32:34.019] Browser WARN    You are trying to animate height from "NaN%" to "95%". "NaN%" is not an animatable value.. For more information and steps for solving, visit https://motion.dev/troubleshooting/value-not-animatable
